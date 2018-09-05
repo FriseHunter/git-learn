@@ -1,0 +1,23 @@
+---------------------------------- GIT ----------------------------------
+
+* git version - Выводит версию git
+
+* git config --global user.name "user name"   -> глобальное имя разработчика.  
+* git config --global user.email "user email" -> глобальное email разработчика.
+
+* git config  user.name "user name"   		  -> имя разработчика данного проекта.  
+* git config  user.email "user email" 		  -> email разработчика данного проекта.
+
+* git init 									  -> создаёт дерикторию .git в проекте.
+* dir 										  -> позволяет просматривать содержимое текущей папки.
+
+* nano filename								  -> Создаёт новый фаил.
+
+* git add filename					          -> Индексирует конкретный фаил
+* git add *	|| git add .			   		  -> Индексирует все файлы
+* git commit -m "comment"					  -> Добавляет commit
+
+* gitk 										  -> Открывакет редактор для просмотра commits
+
+* git status 								  -> Выводит статус файлов проекта и ветку в которой находится Dev
+
