@@ -1,3 +1,5 @@
 It's txt file for dev branch
 
 I change this file i dev branch
+
+I chenge this file in dev branch for learn git rebase
