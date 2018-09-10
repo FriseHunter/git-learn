@@ -7,3 +7,5 @@ I change this file in master
 I chenge this file in dev branch for learn git rebase
 
 I change this file in master
+
+I change this file in master for origin master branch
